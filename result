@@ -1,0 +1,24 @@
+
+Run cpplint
+
+Done processing ./intern.c
+Done processing ./task1.c
+Done processing ./task2.c
+Done processing ./task3.c
+Done processing ./task4.c
+Done processing ./task5.c
+Done processing ./tema2.c
+Done processing ./utils.h
+
+Run clang-tidy
+
+13 warnings generated.
+26 warnings generated.
+39 warnings generated.
+52 warnings generated.
+66 warnings generated.
+82 warnings generated.
+95 warnings generated.
+108 warnings generated.
+Suppressed 108 warnings (104 in non-user code, 4 with check filters).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
